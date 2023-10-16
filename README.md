@@ -23,6 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi1905&show_icons=true&locale=en" alt="abhi1905" /></p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhi1905&theme=dark)](https://git.io/streak-stats)
 
 
